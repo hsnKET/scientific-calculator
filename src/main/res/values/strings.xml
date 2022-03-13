@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="clear_history">Clear History</string>
+</resources>
